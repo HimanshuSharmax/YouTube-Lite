@@ -1,6 +1,7 @@
-# YouTube Lite 🎥 ▶
+# YouTube Lite | Clone Project 🎥 ▶
 
-YouTube Lite is a simplified clone of YouTube developed using React.js. It utilizes the RapidAPI to fetch video details and data. This project aims to provide a lightweight alternative to the official YouTube platform with essential features for browsing and watching videos.
+YouTube Lite is a simplified clone of YouTube developed using React.js. It utilizes the RapidAPI to fetch video details and data. Featuring a custom video player, search functionality, and personalized suggestion pages.
+
 
 ## DEPENDENCIES: 🛠️
 YouTube Lite relies on the following dependencies:
