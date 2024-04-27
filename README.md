@@ -11,7 +11,7 @@ YouTube Lite relies on the following dependencies:
 - **react-player** - A React component for playing various types of media, including YouTube videos.
 
 ## LIVE PREVIEW: 
-You can check out <a href="https://bloginsight.netlify.app/">live-preview</a>.
+You can check out <a href="https://youtubelite-react.netlify.app/">live-preview</a>.
 
 
 ## FEATURES: ✨
